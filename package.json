@@ -4,7 +4,7 @@
   "description": "A command line tool to display images in ASCII.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "author": "anish kumar dubey",
   "license": "ISC",
