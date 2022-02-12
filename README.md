@@ -43,4 +43,4 @@ asciimg <image> --usergb
 The 'test.png' included in the repository is over 4000000 pixels in size, so it will take a while for the tool to convert it. Here are screenshots of the result of that and a few other images:
 
 ### My Profile Picture
-![img](./me.png)
+![img](./me.png?raw=true)
