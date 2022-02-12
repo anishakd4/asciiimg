@@ -3,9 +3,15 @@
   "version": "1.0.2",
   "description": "A command line tool to display images in ASCII.",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
+  "keywords": [
+    "ascii",
+    "image",
+    "text"
+  ],
   "author": "anish kumar dubey",
   "license": "ISC",
   "dependencies": {
