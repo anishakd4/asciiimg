@@ -1,0 +1,16 @@
+{
+  "name": "asciiimg",
+  "version": "1.0.0",
+  "description": "A command line tool to display images in ASCII.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anish kumar dubey",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "commander": "^2.15.1",
+    "get-pixels": "^3.3.0"
+  }
+}
