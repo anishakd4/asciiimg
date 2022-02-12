@@ -1,6 +1,6 @@
 {
   "name": "asciiimg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A command line tool to display images in ASCII.",
   "main": "index.js",
   "scripts": {
