@@ -1,11 +1,9 @@
 {
   "name": "asciiimg",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A command line tool to display images in ASCII.",
   "main": "index.js",
-  "bin": {
-    "asciimg":"./index.js"
-  },
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
